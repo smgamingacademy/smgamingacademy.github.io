@@ -1,4 +1,3 @@
-#=== GoogleAds
+google.com, pub-9505506799234026, DIRECT, f08c47fec0942fa0
 google.com, pub-4048574986797565, DIRECT, f08c47fec0942fa0
 google.com, pub-7757175083132603, DIRECT, f08c47fec0942fa0
-google.com, pub-9505506799234026, DIRECT, f08c47fec0942fa0
